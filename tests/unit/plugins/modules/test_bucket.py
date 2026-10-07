@@ -1,4 +1,4 @@
-# GNU General Public License v3.0+
+# SPDX-License-Identifier: MIT
 """Unit tests for the bucket module's versioning tri-state and absent path."""
 
 from __future__ import absolute_import, division, print_function

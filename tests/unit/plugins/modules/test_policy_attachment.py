@@ -1,4 +1,4 @@
-# GNU General Public License v3.0+
+# SPDX-License-Identifier: MIT
 """Unit tests for policy_attachment's union/exclusive set math."""
 
 from __future__ import absolute_import, division, print_function

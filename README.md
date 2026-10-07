@@ -324,4 +324,4 @@ support is nevertheless proven against live instances and in molecule.
 
 ## License
 
-GPL-3.0-or-later
+MIT License. See [LICENSE](LICENSE).

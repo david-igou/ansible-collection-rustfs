@@ -16,7 +16,8 @@ description: >-
   versioning, lifecycle, quota, IAM policies/users/groups/service accounts,
   policy attachments, and credential liveness verification, with check mode
   as drift detection.
-license_file: LICENSE
+license:
+  - MIT
 
 tags:
   - storage
@@ -39,7 +40,11 @@ build_ignore:
   - .ansible
   - david_igou-rustfs-*.tar.gz
   - importer_result.json
-  - tests
+  # Sanity runs against the installed artifact and needs the MIT header exceptions.
+  - tests/unit
+  - tests/integration
+  - tests/config.yml
+  - tests/output
   - extensions
   - Makefile
   - ansible.cfg

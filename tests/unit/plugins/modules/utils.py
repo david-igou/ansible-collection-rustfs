@@ -1,4 +1,4 @@
-# GNU General Public License v3.0+
+# SPDX-License-Identifier: MIT
 """Standard AnsibleModule unit-test harness (set args, capture exits)."""
 
 from __future__ import absolute_import, division, print_function

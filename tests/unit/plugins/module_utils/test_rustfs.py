@@ -1,4 +1,4 @@
-# GNU General Public License v3.0+
+# SPDX-License-Identifier: MIT
 """Unit tests for the RustFS client plumbing (error taxonomy, retries,
 admin-client serde, SigV4 request shape)."""
 

@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# GNU General Public License v3.0+
-# (see https://www.gnu.org/licenses/gpl-3.0.txt)
+# SPDX-License-Identifier: MIT
 """Shared client plumbing for the modules.
 
 RustFS exposes two management planes and the modules speak both directly
