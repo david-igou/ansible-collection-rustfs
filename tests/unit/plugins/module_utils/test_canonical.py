@@ -1,4 +1,4 @@
-# GNU General Public License v3.0+
+# SPDX-License-Identifier: MIT
 """Unit tests for the shared canonicalization (S3 API shape)."""
 
 from __future__ import absolute_import, division, print_function

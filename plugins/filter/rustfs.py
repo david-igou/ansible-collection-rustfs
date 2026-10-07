@@ -1,5 +1,4 @@
-# GNU General Public License v3.0+
-# (see https://www.gnu.org/licenses/gpl-3.0.txt)
+# SPDX-License-Identifier: MIT
 """Canonicalization filters for comparing RustFS state.
 
 Thin public wrappers: the single source of truth lives in

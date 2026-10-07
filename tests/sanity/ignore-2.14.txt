@@ -1,0 +1,15 @@
+# This collection is MIT; suppress only ansible-test's GPL-specific header rule.
+plugins/modules/bucket.py validate-modules:missing-gplv3-license
+plugins/modules/bucket_info.py validate-modules:missing-gplv3-license
+plugins/modules/bucket_lifecycle.py validate-modules:missing-gplv3-license
+plugins/modules/bucket_quota.py validate-modules:missing-gplv3-license
+plugins/modules/credential_info.py validate-modules:missing-gplv3-license
+plugins/modules/group.py validate-modules:missing-gplv3-license
+plugins/modules/group_info.py validate-modules:missing-gplv3-license
+plugins/modules/policy.py validate-modules:missing-gplv3-license
+plugins/modules/policy_attachment.py validate-modules:missing-gplv3-license
+plugins/modules/policy_info.py validate-modules:missing-gplv3-license
+plugins/modules/service_account.py validate-modules:missing-gplv3-license
+plugins/modules/service_account_info.py validate-modules:missing-gplv3-license
+plugins/modules/user.py validate-modules:missing-gplv3-license
+plugins/modules/user_info.py validate-modules:missing-gplv3-license

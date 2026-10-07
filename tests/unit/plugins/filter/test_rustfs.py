@@ -1,4 +1,4 @@
-# GNU General Public License v3.0+
+# SPDX-License-Identifier: MIT
 """Unit tests for the RustFS canonicalization filters."""
 
 from __future__ import absolute_import, division, print_function

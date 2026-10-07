@@ -2,6 +2,8 @@
 
 ## v2.0.0 (unreleased)
 
+- Standardized the collection license, Galaxy and role metadata, and source headers on MIT.
+
 Full refactor: native Ansible modules replace the rc CLI wrappers
 (spec/design: GitHub issue #3). The modules speak the two management
 planes directly from Python — the S3 API through botocore, the RustFS

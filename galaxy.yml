@@ -16,7 +16,8 @@ description: >-
   versioning, lifecycle, quota, IAM policies/users/groups/service accounts,
   policy attachments, and credential liveness verification, with check mode
   as drift detection.
-license_file: LICENSE
+license:
+  - MIT
 
 tags:
   - storage

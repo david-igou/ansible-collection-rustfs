@@ -1,4 +1,4 @@
-# GNU General Public License v3.0+
+# SPDX-License-Identifier: MIT
 """Unit tests for credential_info's authentication-vs-authorization hinge."""
 
 from __future__ import absolute_import, division, print_function
