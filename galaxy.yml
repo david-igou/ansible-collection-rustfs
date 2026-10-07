@@ -40,7 +40,11 @@ build_ignore:
   - .ansible
   - david_igou-rustfs-*.tar.gz
   - importer_result.json
-  - tests
+  # Sanity runs against the installed artifact and needs the MIT header exceptions.
+  - tests/unit
+  - tests/integration
+  - tests/config.yml
+  - tests/output
   - extensions
   - Makefile
   - ansible.cfg
